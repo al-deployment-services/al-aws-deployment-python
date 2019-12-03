@@ -9,8 +9,8 @@ import time
 from datetime import datetime
 
 #Read in configuration file
-#from create_deployment_properties import *
-from create_deployment_properties_test import *
+from create_deployment_properties import *
+#from create_deployment_properties_test import *
 
 #Setting true/false variables to avoid conflict later
 true=True
